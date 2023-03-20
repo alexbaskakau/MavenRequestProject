@@ -1,7 +1,6 @@
 package ru.netology;
 
 
-
 public class Post {
     public String name; // поле для имени
     public String patronymic;
